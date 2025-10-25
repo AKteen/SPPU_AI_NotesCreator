@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SPPU Academic Notes AI",
+  "description": "An online notes application for SPPU academic studies. It features an AI-powered chat to answer exam questions based on the SPPU syllabus, allowing users to save questions and answers as notes for future reference.",
+  "requestFramePermissions": []
+}
