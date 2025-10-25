@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1-QB-xYYVYRxyBvezPg38wXacuA1OzyxF
+LIVE ON : https://sppu-ai-notes-creator-6zp9a4hrq-vipadityak-gmailcoms-projects.vercel.app/
 
 ## Run Locally
 
